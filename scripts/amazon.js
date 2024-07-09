@@ -7,7 +7,7 @@ import { products } from '../data/products.js';
 const productsGrid = document.querySelector('.products-grid');
 
 /* 
-    Display the Products in Screen
+  Display the Products in Screen
 */
 
 let productsContainer = '';
