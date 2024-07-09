@@ -1,4 +1,4 @@
-//created by Byron Serrano
+//made by Byron Serrano
 
 // Get the data of all products
 import { products } from '../data/products.js';
